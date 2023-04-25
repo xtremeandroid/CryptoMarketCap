@@ -1,6 +1,14 @@
 ## React Crypto App
 This is a React web application that displays the current cryptocurrency prices of the top 100 cryptocurrencies. The application uses the CoinGecko API to retrieve the price data and displays it in a table format.
 
+## Used Libraries
+* React
+* React Router DOM
+* Axios
+* Styled Components
+* React Icons
+* ChakraUI
+
 ## Features
 Displays the current price, market cap, and 24-hour price change of the top 100 cryptocurrencies.
 
