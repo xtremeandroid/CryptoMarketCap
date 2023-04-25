@@ -5,7 +5,6 @@ This is a React web application that displays the current cryptocurrency prices 
 * React
 * React Router DOM
 * Axios
-* Styled Components
 * React Icons
 * ChakraUI
 
