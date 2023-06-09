@@ -22,17 +22,21 @@ To run this application, you will need to have Node.js and npm installed on your
 ### Installation
 
 Clone the repository to your local machine:
+```bash
 git clone https://github.com/xtremeandroid/CryptoMarketCap.git
-
+```
 Navigate to the project directory:
+```bash
 cd CryptoMarketCap
-
+```
 Install the required packages:
+```bash
 npm install
-
+```
 Start the development server:
+```bash
 npm run dev
-
+```
 ## Screenshots
 <img width="961" alt="Screenshot 2023-04-25 120446" src="https://user-images.githubusercontent.com/62198074/234195596-0f670576-621b-4551-881e-f1295de87cda.png">
 <img width="961" alt="Screenshot 2023-04-25 120504" src="https://user-images.githubusercontent.com/62198074/234195605-2e5ecd5a-4706-46d1-87bf-5dc488a0f267.png">
