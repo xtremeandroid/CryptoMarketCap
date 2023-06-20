@@ -20,7 +20,8 @@ const Footer = () => {
             letterSpacing={"widest"}
             textAlign={["center", "left"]}
           >
-            React App where users can View top cryptocurrency prices live, crypto charts, market cap, and trading volume.  
+            React App where users can View top cryptocurrency prices live,
+            crypto charts, market cap, and trading volume.
           </Text>
         </VStack>
 
